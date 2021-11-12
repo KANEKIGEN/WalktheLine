@@ -1,0 +1,625 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-6RPM147",
+    "children" : [ {
+      "name" : "19800-MainThread",
+      "children" : [ {
+        "name" : "加法018-021",
+        "uid" : "a33389bf00c32aa3",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820978,
+          "stop" : 1636699820980,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[' ', 3.14, 'TypeError']" ]
+      }, {
+        "name" : "加法004-011",
+        "uid" : "6a516c09c5c1df11",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820933,
+          "stop" : 1636699820935,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[1, -99.01, '参数大小超出范围']" ]
+      }, {
+        "name" : "除法005-011",
+        "uid" : "c47f4c7a2c3e3ed4",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821019,
+          "stop" : 1636699821020,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['nu', 0.2, 'TypeError']" ]
+      }, {
+        "name" : "加法004-011",
+        "uid" : "bc6eea336540f9ed",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820926,
+          "stop" : 1636699820928,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[2, 99.01, '参数大小超出范围']" ]
+      }, {
+        "name" : "加法012-017",
+        "uid" : "ea0478460e687a9a",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820947,
+          "stop" : 1636699820949,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['nu', 0.2, 'TypeError']" ]
+      }, {
+        "name" : "除法001-004",
+        "uid" : "dda41c0c69b84346",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821002,
+          "stop" : 1636699821003,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[10, 0.02, 500]" ]
+      }, {
+        "name" : "除法005-011",
+        "uid" : "b7dd8ee45e1c43a7",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821011,
+          "stop" : 1636699821013,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['文', 9.3, 'TypeError']" ]
+      }, {
+        "name" : "加法012-017",
+        "uid" : "4d41ac6e2ac3dda1",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820938,
+          "stop" : 1636699820939,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['文', 9.3, 'TypeError']" ]
+      }, {
+        "name" : "加法001，002，003",
+        "uid" : "3280e8009a27e7c0",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820886,
+          "stop" : 1636699820887,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[-0.01, 0.02, 0.01]" ]
+      }, {
+        "name" : "加法001，002，003",
+        "uid" : "4b5abfed1c598607",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820891,
+          "stop" : 1636699820892,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[10, 0.02, 10.02]" ]
+      }, {
+        "name" : "加法012-017",
+        "uid" : "c0d32ef755fe5d2a",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820955,
+          "stop" : 1636699820957,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['*&', 0.2, 'TypeError']" ]
+      }, {
+        "name" : "加法012-017",
+        "uid" : "1e132e9a3dca4a4",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820962,
+          "stop" : 1636699820964,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[21.45, '@', 'TypeError']" ]
+      }, {
+        "name" : "除法005-011",
+        "uid" : "944f2a8240de50ce",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821033,
+          "stop" : 1636699821034,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[21.45, '@', 'TypeError']" ]
+      }, {
+        "name" : "加法001，002，003",
+        "uid" : "f5ed25ce6e6e33e9",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820879,
+          "stop" : 1636699820881,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[1, 1, 2]" ]
+      }, {
+        "name" : "加法018-021",
+        "uid" : "8c2bb8aaff1e04d8",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820967,
+          "stop" : 1636699820969,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['None', 20.93, 'TypeError']" ]
+      }, {
+        "name" : "除法012-015",
+        "uid" : "2d24062602f183f7",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821052,
+          "stop" : 1636699821053,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[-90, ' ', 'TypeError']" ]
+      }, {
+        "name" : "加法012-017",
+        "uid" : "86e8200205e4389a",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820951,
+          "stop" : 1636699820953,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[30, 't', 'TypeError']" ]
+      }, {
+        "name" : "除法005-011",
+        "uid" : "f8b8e8f483e27a2f",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821005,
+          "stop" : 1636699821007,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[99, 0, 'ZeroDivisionError']" ]
+      }, {
+        "name" : "加法018-021",
+        "uid" : "85952bdc899bff28",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820983,
+          "stop" : 1636699820984,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[-90, ' ', 'TypeError']" ]
+      }, {
+        "name" : "加法004-011",
+        "uid" : "3e6f27ecf63187d3",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820922,
+          "stop" : 1636699820924,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[-99.01, -1, '参数大小超出范围']" ]
+      }, {
+        "name" : "加法004-011",
+        "uid" : "20d56f3e7bc349e7",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820918,
+          "stop" : 1636699820920,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[99.01, 0, '参数大小超出范围']" ]
+      }, {
+        "name" : "除法001-004",
+        "uid" : "f61a87a88505f063",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820998,
+          "stop" : 1636699820999,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[-0.01, 0.02, -0.5]" ]
+      }, {
+        "name" : "除法012-015",
+        "uid" : "363f8c70a2f8ef11",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821044,
+          "stop" : 1636699821045,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[-3, 'None', 'TypeError']" ]
+      }, {
+        "name" : "加法004-011",
+        "uid" : "6837a457f24cd432",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820895,
+          "stop" : 1636699820898,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[98.99, 99, 197.99]" ]
+      }, {
+        "name" : "除法001-004",
+        "uid" : "d5f6e364a0ff9533",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820988,
+          "stop" : 1636699820989,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[1, 1, 1]" ]
+      }, {
+        "name" : "除法001-004",
+        "uid" : "48abefd1fbfc8541",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820994,
+          "stop" : 1636699820995,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[-0.01, -0.02, 0.5]" ]
+      }, {
+        "name" : "加法004-011",
+        "uid" : "3cef2491876cd3f6",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820903,
+          "stop" : 1636699820904,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[99, 98.99, 197.99]" ]
+      }, {
+        "name" : "除法005-011",
+        "uid" : "a8ee77708699d6e1",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821022,
+          "stop" : 1636699821027,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[30, 't', 'TypeError']" ]
+      }, {
+        "name" : "除法005-011",
+        "uid" : "5f007fbc1002858",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821030,
+          "stop" : 1636699821031,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['*&', 0.2, 'TypeError']" ]
+      }, {
+        "name" : "加法004-011",
+        "uid" : "ba78dc85f392232f",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820908,
+          "stop" : 1636699820909,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[-98.99, -99, -197.99]" ]
+      }, {
+        "name" : "加法018-021",
+        "uid" : "1ddf3b936bcb1f91",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820971,
+          "stop" : 1636699820973,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[-3, 'None', 'TypeError']" ]
+      }, {
+        "name" : "除法012-015",
+        "uid" : "5083d9d7a478f06b",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821037,
+          "stop" : 1636699821039,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['None', 20.93, 'TypeError']" ]
+      }, {
+        "name" : "除法012-015",
+        "uid" : "445399ef28088536",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821048,
+          "stop" : 1636699821049,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[' ', 3.14, 'TypeError']" ]
+      }, {
+        "name" : "加法004-011",
+        "uid" : "83e4b675158babaf",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820912,
+          "stop" : 1636699820916,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[-99, -98.99, -197.99]" ]
+      }, {
+        "name" : "除法005-011",
+        "uid" : "d1b49186ffc7c548",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699821015,
+          "stop" : 1636699821016,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[4, '字', 'TypeError']" ]
+      }, {
+        "name" : "加法012-017",
+        "uid" : "f914fde301a1b49e",
+        "parentUid" : "986eab736c6c0bb5b25e0a0e839ba11d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636699820942,
+          "stop" : 1636699820943,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "[4, '字', 'TypeError']" ]
+      } ],
+      "uid" : "986eab736c6c0bb5b25e0a0e839ba11d"
+    } ],
+    "uid" : "884e0c3ec10fffbb1cb857568d07e885"
+  } ]
+}

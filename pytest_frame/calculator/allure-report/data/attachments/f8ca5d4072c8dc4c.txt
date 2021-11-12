@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_calculator.py:52 加法P2开始运行测试
+[32mINFO    [0m root:test_calculator.py:53 数据[-90, ' ', 'TypeError']
+[32mINFO    [0m root:test_calculator.py:55 异常<ExceptionInfo for raises contextmanager>

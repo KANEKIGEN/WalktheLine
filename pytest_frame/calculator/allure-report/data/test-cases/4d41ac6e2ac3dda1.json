@@ -1,0 +1,127 @@
+{
+  "uid" : "4d41ac6e2ac3dda1",
+  "name" : "加法012-017",
+  "fullName" : "test_calculator.TestAddCalculator#test_add_P1_2",
+  "historyId" : "b70ca4c855fb72fb02fd45e894a94e9e",
+  "time" : {
+    "start" : 1636699820938,
+    "stop" : 1636699820939,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestAddCalculator",
+    "time" : {
+      "start" : 1636699820878,
+      "stop" : 1636699820878,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "add_P1_2_data",
+    "time" : {
+      "start" : 1636699820937,
+      "stop" : 1636699820937,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f8cdc6a9b7309b2a",
+      "name" : "log",
+      "source" : "f8cdc6a9b7309b2a.txt",
+      "type" : "text/plain",
+      "size" : 243
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestAddCalculator::0",
+    "time" : {
+      "start" : 1636699820985,
+      "stop" : 1636699820985,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "加法"
+  }, {
+    "name" : "tag",
+    "value" : "ADD_P1_2"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAddCalculator"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-6RPM147"
+  }, {
+    "name" : "thread",
+    "value" : "19800-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "add_P1_2_data",
+    "value" : "['文', 9.3, 'TypeError']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "ADD_P1_2" ]
+  },
+  "source" : "4d41ac6e2ac3dda1.json",
+  "parameterValues" : [ "['文', 9.3, 'TypeError']" ]
+}

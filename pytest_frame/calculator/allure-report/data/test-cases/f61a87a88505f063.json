@@ -1,0 +1,97 @@
+{
+  "uid" : "f61a87a88505f063",
+  "name" : "除法001-004",
+  "fullName" : "test_calculator.TestDivCalculator#test_div_P0",
+  "historyId" : "776b9447e5751e6c670b5865e0210a11",
+  "time" : {
+    "start" : 1636699820998,
+    "stop" : 1636699820999,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "div_P0_data",
+    "time" : {
+      "start" : 1636699820998,
+      "stop" : 1636699820998,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5336aa36cff94130",
+      "name" : "log",
+      "source" : "5336aa36cff94130.txt",
+      "type" : "text/plain",
+      "size" : 142
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "除法"
+  }, {
+    "name" : "tag",
+    "value" : "DIV_P0"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDivCalculator"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-6RPM147"
+  }, {
+    "name" : "thread",
+    "value" : "19800-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "div_P0_data",
+    "value" : "[-0.01, 0.02, -0.5]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "DIV_P0" ]
+  },
+  "source" : "f61a87a88505f063.json",
+  "parameterValues" : [ "[-0.01, 0.02, -0.5]" ]
+}

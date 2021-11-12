@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_calculator.py:71 除法P1_1开始运行测试
+[32mINFO    [0m root:test_calculator.py:72 数据[30, 't', 'TypeError']

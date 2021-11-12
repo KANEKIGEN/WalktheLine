@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_calculator.py:35 加法P1_1开始运行测试
+[32mINFO    [0m root:test_calculator.py:36 数据[98.99, 99, 197.99]
